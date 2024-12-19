@@ -1,2 +1,2 @@
 # React-Movie-Web-App
-A movie web app that uses the react framework and javascript to fetch movies via an api.
+A movie web app that uses the react framework to fetch and display movies via a javascript api.
